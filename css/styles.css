@@ -544,7 +544,6 @@ pre code {
 }
 
 
-
 .compartir{
   text-align: center;
 }
@@ -568,6 +567,7 @@ ul.share-buttons .sr-only{
   width: 1px;
   overflow: hidden;
 }
+
 
 .nav-logo{
   display: inline;
