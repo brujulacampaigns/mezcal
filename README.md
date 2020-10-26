@@ -1,2 +1,0 @@
-# houseblend
-Landing Page
